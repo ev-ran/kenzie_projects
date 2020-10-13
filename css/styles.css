@@ -9246,7 +9246,7 @@ section.resume-section .resume-section-content {
   flex-direction: row;
   flex-wrap: wrap;
   text-align: center;
-  justify-content: space-between;
+  justify-content: flex-start;
   /* border: 2px solid blue; */
 }
 
